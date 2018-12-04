@@ -15,7 +15,7 @@ h1, h2, h3, h4, h5, h6, p{
 
 section.navbar{
     padding: 20px 0px;
-    background-color: #fff;
+    background-color: #fffefd;
     width: 100%;
 }
 
@@ -90,11 +90,31 @@ section.experience h1{
 section.experience p{
   padding-top: .5rem;
   padding-bottom: .5rem;
+  text-align: center;
+  font-weight: bold;
+}
+
+section.experience p2{
+  padding-top: .5rem;
+  padding-bottom: .5rem;
+}
+
+section.experience i{
+  font-size: 10rem;
+  color: white;
+  padding-left: 3rem;
+  padding-right: 3rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  display: inline-block;
+  width: 100%;
+  text-align: center;
 }
 
 section.meeting{
   padding-top: 4rem;
   padding-bottom: 4rem;
+  background-color: #fffefd;
 }
 
 section.meeting h1{
@@ -104,6 +124,12 @@ section.meeting h1{
 }
 
 section.meeting p{
+  font-size: 2.5rem;
+  padding-top: .5rem;
+  padding-bottom: .5rem;
+}
+
+section.meeting li{
   padding-top: .5rem;
   padding-bottom: .5rem;
 }
