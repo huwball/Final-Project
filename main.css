@@ -37,6 +37,7 @@ section.navbar .links a{
 
 section.navbar .links a:hover{
     opacity: 1;
+    color: #b3969a;
 }
 
 section.jumbotron{
@@ -89,7 +90,7 @@ section.experience h1{
 
 section.experience p{
   padding-top: .5rem;
-  padding-bottom: .5rem;
+  padding-bottom: 1rem;
   text-align: center;
   font-weight: bold;
 }
@@ -124,9 +125,9 @@ section.meeting h1{
 }
 
 section.meeting p{
-  font-size: 2.5rem;
   padding-top: .5rem;
   padding-bottom: .5rem;
+  font-weight: bold;
 }
 
 section.meeting li{
