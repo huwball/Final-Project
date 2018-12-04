@@ -235,4 +235,8 @@ a:active {
     section.footer i{
       font-size: 3.5rem;
     }
+    section.navbar{
+      font-size: 1.5rem;
+      padding-left: .9rem;
+    }
   }
